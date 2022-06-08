@@ -1,4 +1,4 @@
 clear all;
 
-a = 0;
+a = 10;
 disp(a)
